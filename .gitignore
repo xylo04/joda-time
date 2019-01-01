@@ -16,3 +16,5 @@
 src/tz-data/
 *TempTest*
 /src/main/resources/org/joda/time/tz/data/
+bazel-*
+.ijwb
